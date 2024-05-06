@@ -1,0 +1,226 @@
+{
+    "Day 1": [
+        {
+            "barbell bench front squat": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "lever leg extension": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "lever alternate leg press": {
+                "Sets": "3",
+                "Reps": "10-15"
+            }
+        },
+        {
+            "lever lying leg curl": {
+                "Sets": "4",
+                "Reps": "15-20"
+            }
+        },
+        {
+            "barbell standing calf raise": {
+                "Sets": "4",
+                "Reps": "15-20"
+            }
+        },
+        {
+            "barbell seated calf raise": {
+                "Sets": "4",
+                "Reps": "15-20"
+            }
+        },
+        {
+            "cable side bend crunch (bosu ball)": {
+                "Sets": "4",
+                "Reps": "15-20"
+            }
+        },
+        {
+            "hanging leg raise": {
+                "Sets": "4",
+                "Reps": "15-20"
+            }
+        }
+    ],
+    "Day 2": [
+        {
+            "dumbbell full can lateral raise": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "dumbbell arnold press v. 2": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "barbell upright row": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "dumbbell incline one arm lateral raise": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "dumbbell incline bench press": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "dumbbell fly": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "chest dip": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "dumbbell bench press": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        }
+    ],
+    "Day 3": [
+        {
+            "chin-up": {
+                "Sets": "2",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "pull-up": {
+                "Sets": "2",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "band fixed back close grip pulldown": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "cable wide grip rear pulldown behind neck": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "band one arm twisting seated row": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "barbell rack pull": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        }
+    ],
+    "Day 4": [
+        {
+            "cable two arm tricep kickback": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "cable straight arm pulldown (with rope)": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "cable overhead curl": {
+                "Sets": "4",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "Barbell Curl": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "band wrist curl": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "cable one arm preacher curl": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        }
+    ],
+    "Day 5": [
+        {
+            "dumbbell lateral raise": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "barbell upright row": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "chin-up": {
+                "Sets": "3",
+                "Reps": "8-12"
+            }
+        },
+        {
+            "cable side bend crunch (bosu ball)": {
+                "Sets": "4",
+                "Reps": "5-30"
+            }
+        },
+        {
+            "hanging leg raise": {
+                "Sets": "4",
+                "Reps": "15-20"
+            }
+        }
+    ],
+    "Day 6": [
+        {
+            "Rest": {
+                "Sets": null,
+                "Reps": null
+            }
+        }
+    ],
+    "Day 7": [
+        {
+            "Rest": {
+                "Sets": null,
+                "Reps": null
+            }
+        }
+    ]
+}
